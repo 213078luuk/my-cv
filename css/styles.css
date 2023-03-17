@@ -14,15 +14,18 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #9DC08B;
 }
 
+.fw-bolder /*Used class to change font */ {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
 .resume-main {
-	background-color: #fffefc;
+	background-color: #EDF1D6;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #609966;
 }
 
 /* Styles for lists in the document */
@@ -43,6 +46,13 @@ body {
 	padding-left: 1em;
 }
 
+.language-list {
+	color: #40513B;
+}
+
+.wow1 {
+	color: grey
+}
 /* Styles for contact icons */
 
 .contact-icon {
