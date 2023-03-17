@@ -18,7 +18,9 @@ body {
 }
 
 .fw-bolder /*Used class to change font */ {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: blue;
+
 }
 .resume-main {
 	background-color: #EDF1D6;
